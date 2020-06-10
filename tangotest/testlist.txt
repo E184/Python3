@@ -1,0 +1,7 @@
+helloword こんにちは世界
+minecraft マインクラフト
+monsterhunter モンスターハンター
+apple りんご
+orange みかん
+banana バナナ
+knowledge 知識
