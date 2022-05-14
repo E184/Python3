@@ -11,4 +11,3 @@ by eiru2224
 
 github.eiru2224
 twitter.@eiru2224
-instagram.eiru2224
