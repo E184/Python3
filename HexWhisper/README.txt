@@ -1,6 +1,7 @@
 文字を16進数でしか表現できないときに、表現できるように変換してくれるコンバーターです。
 HexSpeakではありません。
 また、他の進数に変換することで暗号化を試みることもできます。
+HexWhisper.txtにA~Zまでの対応表があります。
 
 
 例:
@@ -14,6 +15,7 @@ HexSpeak = 8E8510EAC ...
 It is a converter that converts characters to be represented when they can only be represented in hexadecimal.
 Not HexSpeak.
 It is also possible to attempt encryption by converting to other decimal numbers.
+There is a correspondence table from A~Z in HexWhisper.txt.
 
 
 Ex.
